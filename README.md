@@ -1,0 +1,2 @@
+# next-configuration
+ Configuration
